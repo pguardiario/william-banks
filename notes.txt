@@ -1,0 +1,36 @@
+I hope you have had a good new years. The corklytics project has stalled, however I have another project.
+
+
+
+The idea is to get information from banks and credit unions in the united states. A database with the following info: financial institution name, type (federal credit union, credit union, community bank, bank, other), if it is a corporate credit union or not, if Low Income Designation or not.
+
+
+The idea is to later make two more tables one for the locations of the branches for each and one for the current rates or offers of the financial institution. This will be to help people find a financial institution near them that has the best rate.
+
+I believe there are about 4,000 credit unions and 8,000 banks in the US.
+
+(there are actually 25k+ of each but many are closed / inactive)
+
+Credit unions can be found in the NCUA database: https://mapping.ncua.gov/ResearchCreditUnion
+
+
+
+And banks in the FDIC database: https://banks.data.fdic.gov/bankfind-suite/bankfind
+
+
+
+I believe there are about 4,000 credit unions and 8,000 banks in the US.
+
+
+
+Attached is an example of the NCUA page for one credit union.
+
+
+
+The idea is to later make two more tables one for the locations of the branches for each and one for the current rates or offers of the financial institution. This will be to help people find a financial institution near them that has the best rate.
+
+
+
+Would you be interested in working on this project?
+
+CREATE USER bank_user WITH PASSWORD 'i5ZnJkKEQDLPkTCd';

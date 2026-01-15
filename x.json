@@ -1,0 +1,805 @@
+{
+  "totalResultCount": 22397,
+  "results": [
+    {
+      "charterNumber": 60273,
+      "name": "'66'",
+      "city": " ",
+      "state": "  ",
+      "isCorporate": false,
+      "isActive": false
+    },
+    {
+      "charterNumber": 7965,
+      "name": "@LANTEC FINANCIAL",
+      "city": "VIRGINIA BEACH",
+      "state": "VA",
+      "isCorporate": false,
+      "isActive": false
+    },
+    {
+      "charterNumber": 16328,
+      "name": "#1",
+      "city": "JONESBORO",
+      "state": "GA",
+      "isCorporate": false,
+      "isActive": false
+    },
+    {
+      "charterNumber": 60892,
+      "name": "1129",
+      "city": " ",
+      "state": "  ",
+      "isCorporate": false,
+      "isActive": false
+    },
+    {
+      "charterNumber": 1166,
+      "name": "1166",
+      "city": "SWEDESBORO",
+      "state": "NJ",
+      "isCorporate": false,
+      "isActive": true
+    },
+    {
+      "charterNumber": 8675,
+      "name": "11TH COAST GUARD DISTRICT",
+      "city": " ",
+      "state": "  ",
+      "isCorporate": false,
+      "isActive": false
+    },
+    {
+      "charterNumber": 61605,
+      "name": "121 FINANCIAL",
+      "city": "JACKSONVILLE",
+      "state": "FL",
+      "isCorporate": false,
+      "isActive": false
+    },
+    {
+      "charterNumber": 3288,
+      "name": "123 UNIVERSITY PLACE EMP",
+      "city": " ",
+      "state": "  ",
+      "isCorporate": false,
+      "isActive": false
+    },
+    {
+      "charterNumber": 22945,
+      "name": "12TH DISTRICT ASSOCIATION",
+      "city": " ",
+      "state": "  ",
+      "isCorporate": false,
+      "isActive": false
+    },
+    {
+      "charterNumber": 61263,
+      "name": "1331U.S.A.CIO",
+      "city": " ",
+      "state": "  ",
+      "isCorporate": false,
+      "isActive": false
+    },
+    {
+      "charterNumber": 65931,
+      "name": "1361 V.H.T.",
+      "city": " ",
+      "state": "  ",
+      "isCorporate": false,
+      "isActive": false
+    },
+    {
+      "charterNumber": 1466,
+      "name": "1466",
+      "city": " ",
+      "state": "  ",
+      "isCorporate": false,
+      "isActive": false
+    },
+    {
+      "charterNumber": 13028,
+      "name": "167TH TFR",
+      "city": "MARTINSBURG",
+      "state": "WV",
+      "isCorporate": false,
+      "isActive": true
+    },
+    {
+      "charterNumber": 8030,
+      "name": "177",
+      "city": " ",
+      "state": "  ",
+      "isCorporate": false,
+      "isActive": false
+    },
+    {
+      "charterNumber": 23125,
+      "name": "1897",
+      "city": "SALISBURY",
+      "state": "MD",
+      "isCorporate": false,
+      "isActive": true
+    },
+    {
+      "charterNumber": 65923,
+      "name": "194",
+      "city": " ",
+      "state": "  ",
+      "isCorporate": false,
+      "isActive": false
+    },
+    {
+      "charterNumber": 61736,
+      "name": "1ST",
+      "city": "INDEPENDENCE",
+      "state": "MO",
+      "isCorporate": false,
+      "isActive": false
+    },
+    {
+      "charterNumber": 7448,
+      "name": "1ST ADVANTAGE",
+      "city": "YORKTOWN",
+      "state": "VA",
+      "isCorporate": false,
+      "isActive": true
+    },
+    {
+      "charterNumber": 12951,
+      "name": "1ST ALLIANCE",
+      "city": "BALTIMORE",
+      "state": "MD",
+      "isCorporate": false,
+      "isActive": false
+    },
+    {
+      "charterNumber": 21214,
+      "name": "1ST ALLIANCE XXI",
+      "city": "AKRON",
+      "state": "NY",
+      "isCorporate": false,
+      "isActive": false
+    },
+    {
+      "charterNumber": 24810,
+      "name": "1ST BERGEN",
+      "city": "HACKENSACK",
+      "state": "NJ",
+      "isCorporate": false,
+      "isActive": true
+    },
+    {
+      "charterNumber": 67505,
+      "name": "1ST CHOICE",
+      "city": "ATLANTA",
+      "state": "GA",
+      "isCorporate": false,
+      "isActive": true
+    },
+    {
+      "charterNumber": 15829,
+      "name": "1ST CHOICE",
+      "city": "CASTRO VALLEY",
+      "state": "CA",
+      "isCorporate": false,
+      "isActive": false
+    },
+    {
+      "charterNumber": 4446,
+      "name": "1ST CHOICE COMMUNITY",
+      "city": "ERIE",
+      "state": "PA",
+      "isCorporate": false,
+      "isActive": false
+    },
+    {
+      "charterNumber": 6065,
+      "name": "1ST CITIZENS",
+      "city": "LONGVIEW",
+      "state": "WA",
+      "isCorporate": false,
+      "isActive": false
+    },
+    {
+      "charterNumber": 63995,
+      "name": "1ST CITY",
+      "city": "SAINT LOUIS",
+      "state": "MO",
+      "isCorporate": false,
+      "isActive": false
+    },
+    {
+      "charterNumber": 67022,
+      "name": "1ST CLASS EXPRESS",
+      "city": "WAUKESHA",
+      "state": "WI",
+      "isCorporate": false,
+      "isActive": true
+    },
+    {
+      "charterNumber": 67012,
+      "name": "1ST COMMUNITY",
+      "city": "SPARTA",
+      "state": "WI",
+      "isCorporate": false,
+      "isActive": true
+    },
+    {
+      "charterNumber": 8715,
+      "name": "1ST COMMUNITY",
+      "city": "SAN ANGELO",
+      "state": "TX",
+      "isCorporate": false,
+      "isActive": true
+    },
+    {
+      "charterNumber": 63070,
+      "name": "1ST COMMUNITY",
+      "city": "DECATUR",
+      "state": "IL",
+      "isCorporate": false,
+      "isActive": false
+    },
+    {
+      "charterNumber": 24627,
+      "name": "1ST COOPERATIVE",
+      "city": "CAYCE",
+      "state": "SC",
+      "isCorporate": false,
+      "isActive": true
+    },
+    {
+      "charterNumber": 65412,
+      "name": "1ST ED CREDIT UNION",
+      "city": "CHAMBERSBURG",
+      "state": "PA",
+      "isCorporate": false,
+      "isActive": true
+    },
+    {
+      "charterNumber": 21099,
+      "name": "1ST GARLAND COMMUNITY",
+      "city": "GARLAND",
+      "state": "TX",
+      "isCorporate": false,
+      "isActive": false
+    },
+    {
+      "charterNumber": 63124,
+      "name": "1ST GATEWAY",
+      "city": "CAMANCHE",
+      "state": "IA",
+      "isCorporate": false,
+      "isActive": true
+    },
+    {
+      "charterNumber": 1935,
+      "name": "1ST GENERAL EMPLOYEES",
+      "city": " ",
+      "state": "  ",
+      "isCorporate": false,
+      "isActive": false
+    },
+    {
+      "charterNumber": 63217,
+      "name": "1ST KANSAS",
+      "city": "TOPEKA",
+      "state": "KS",
+      "isCorporate": false,
+      "isActive": true
+    },
+    {
+      "charterNumber": 10375,
+      "name": "1ST LIBERTY",
+      "city": "GREAT FALLS",
+      "state": "MT",
+      "isCorporate": false,
+      "isActive": true
+    },
+    {
+      "charterNumber": 63932,
+      "name": "1ST MIDAMERICA",
+      "city": "BETHALTO",
+      "state": "IL",
+      "isCorporate": false,
+      "isActive": true
+    },
+    {
+      "charterNumber": 21073,
+      "name": "1ST MISSISSIPPI",
+      "city": "MERIDIAN",
+      "state": "MS",
+      "isCorporate": false,
+      "isActive": true
+    },
+    {
+      "charterNumber": 14108,
+      "name": "1ST NORTH WEST",
+      "city": "FREEPORT",
+      "state": "IL",
+      "isCorporate": false,
+      "isActive": false
+    },
+    {
+      "charterNumber": 68668,
+      "name": "1ST NORTHERN CALIFORNIA",
+      "city": "MARTINEZ",
+      "state": "CA",
+      "isCorporate": false,
+      "isActive": true
+    },
+    {
+      "charterNumber": 68427,
+      "name": "1ST PACIFIC",
+      "city": "VALLEJO",
+      "state": "CA",
+      "isCorporate": false,
+      "isActive": false
+    },
+    {
+      "charterNumber": 9859,
+      "name": "1ST PATRIOTS",
+      "city": "ROCK HILL",
+      "state": "SC",
+      "isCorporate": false,
+      "isActive": false
+    },
+    {
+      "charterNumber": 11015,
+      "name": "1ST PLATTSBURGH",
+      "city": "PLATTSBURGH",
+      "state": "NY",
+      "isCorporate": false,
+      "isActive": false
+    },
+    {
+      "charterNumber": 23304,
+      "name": "1ST PRIORITY",
+      "city": "ROCHESTER",
+      "state": "NY",
+      "isCorporate": false,
+      "isActive": false
+    },
+    {
+      "charterNumber": 64232,
+      "name": "1ST RESOURCE",
+      "city": "BIRMINGHAM",
+      "state": "AL",
+      "isCorporate": false,
+      "isActive": false
+    },
+    {
+      "charterNumber": 66825,
+      "name": "1ST SECURITY",
+      "city": "GREEN BAY",
+      "state": "WI",
+      "isCorporate": false,
+      "isActive": false
+    },
+    {
+      "charterNumber": 11487,
+      "name": "1ST SELECT",
+      "city": "HOPKINSVILLE",
+      "state": "KY",
+      "isCorporate": false,
+      "isActive": false
+    },
+    {
+      "charterNumber": 67309,
+      "name": "1ST STREET",
+      "city": "SARASOTA",
+      "state": "FL",
+      "isCorporate": false,
+      "isActive": true
+    },
+    {
+      "charterNumber": 24017,
+      "name": "1ST TENANTS",
+      "city": " ",
+      "state": "  ",
+      "isCorporate": false,
+      "isActive": false
+    },
+    {
+      "charterNumber": 13860,
+      "name": "1ST UNITED",
+      "city": "SAN JOSE",
+      "state": "CA",
+      "isCorporate": false,
+      "isActive": false
+    },
+    {
+      "charterNumber": 63958,
+      "name": "1ST UNITED",
+      "city": "PLEASANTON",
+      "state": "CA",
+      "isCorporate": false,
+      "isActive": true
+    },
+    {
+      "charterNumber": 12550,
+      "name": "1ST UNITED LABOR",
+      "city": "LOUISVILLE",
+      "state": "KY",
+      "isCorporate": false,
+      "isActive": false
+    },
+    {
+      "charterNumber": 23889,
+      "name": "1ST UNIVERSAL",
+      "city": "STOUGHTON",
+      "state": "MA",
+      "isCorporate": false,
+      "isActive": false
+    },
+    {
+      "charterNumber": 67483,
+      "name": "1ST UNIVERSITY",
+      "city": "WACO",
+      "state": "TX",
+      "isCorporate": false,
+      "isActive": true
+    },
+    {
+      "charterNumber": 68027,
+      "name": "1ST VALLEY",
+      "city": "SAN BERNARDINO",
+      "state": "CA",
+      "isCorporate": false,
+      "isActive": false
+    },
+    {
+      "charterNumber": 62827,
+      "name": "2 RIVERS AREA",
+      "city": "KANKAKEE",
+      "state": "IL",
+      "isCorporate": false,
+      "isActive": true
+    },
+    {
+      "charterNumber": 20076,
+      "name": "20TH CENTURY TRUCKING CO. EMP.",
+      "city": " ",
+      "state": "  ",
+      "isCorporate": false,
+      "isActive": false
+    },
+    {
+      "charterNumber": 64556,
+      "name": "26TH DISTRICT REAL ESTATE",
+      "city": "COVINA",
+      "state": "CA",
+      "isCorporate": false,
+      "isActive": false
+    },
+    {
+      "charterNumber": 19730,
+      "name": "2ND BAPTIST CH. OF ANN ARBOR",
+      "city": "ANN ARBOR",
+      "state": "MI",
+      "isCorporate": false,
+      "isActive": false
+    },
+    {
+      "charterNumber": 21580,
+      "name": "2ND BAPTIST CHURCH",
+      "city": " ",
+      "state": "  ",
+      "isCorporate": false,
+      "isActive": false
+    },
+    {
+      "charterNumber": 61871,
+      "name": "3 - C",
+      "city": " ",
+      "state": "  ",
+      "isCorporate": false,
+      "isActive": false
+    },
+    {
+      "charterNumber": 62189,
+      "name": "3 M",
+      "city": " ",
+      "state": "  ",
+      "isCorporate": false,
+      "isActive": false
+    },
+    {
+      "charterNumber": 14515,
+      "name": "3-TS EMPLOYEES",
+      "city": " ",
+      "state": "  ",
+      "isCorporate": false,
+      "isActive": false
+    },
+    {
+      "charterNumber": 8214,
+      "name": "3355",
+      "city": "MOORESTOWN",
+      "state": "NJ",
+      "isCorporate": false,
+      "isActive": false
+    },
+    {
+      "charterNumber": 7723,
+      "name": "360",
+      "city": "WINDSOR LOCKS",
+      "state": "CT",
+      "isCorporate": false,
+      "isActive": true
+    },
+    {
+      "charterNumber": 66212,
+      "name": "372",
+      "city": " ",
+      "state": "  ",
+      "isCorporate": false,
+      "isActive": false
+    },
+    {
+      "charterNumber": 68297,
+      "name": "3HILL",
+      "city": "BLUE BELL",
+      "state": "PA",
+      "isCorporate": false,
+      "isActive": true
+    },
+    {
+      "charterNumber": 14226,
+      "name": "3RD DISTRICT HIGHWAY",
+      "city": "LAFAYETTE",
+      "state": "LA",
+      "isCorporate": false,
+      "isActive": true
+    },
+    {
+      "charterNumber": 15923,
+      "name": "4 CS",
+      "city": " ",
+      "state": "  ",
+      "isCorporate": false,
+      "isActive": false
+    },
+    {
+      "charterNumber": 63347,
+      "name": "4-SQUARE",
+      "city": " ",
+      "state": "  ",
+      "isCorporate": false,
+      "isActive": false
+    },
+    {
+      "charterNumber": 65347,
+      "name": "431",
+      "city": " ",
+      "state": "  ",
+      "isCorporate": false,
+      "isActive": false
+    },
+    {
+      "charterNumber": 68739,
+      "name": "44 NORTH",
+      "city": "LEBANON",
+      "state": "OR",
+      "isCorporate": false,
+      "isActive": true
+    },
+    {
+      "charterNumber": 9626,
+      "name": "442ND VETERANS CLUB",
+      "city": " ",
+      "state": "  ",
+      "isCorporate": false,
+      "isActive": false
+    },
+    {
+      "charterNumber": 65920,
+      "name": "453 UNIT 6",
+      "city": " ",
+      "state": "  ",
+      "isCorporate": false,
+      "isActive": false
+    },
+    {
+      "charterNumber": 16045,
+      "name": "49'ER",
+      "city": "PLACERVILLE",
+      "state": "CA",
+      "isCorporate": false,
+      "isActive": false
+    },
+    {
+      "charterNumber": 61365,
+      "name": "4FRONT",
+      "city": "TRAVERSE CITY",
+      "state": "MI",
+      "isCorporate": false,
+      "isActive": true
+    },
+    {
+      "charterNumber": 14914,
+      "name": "4TH DIST. LA DOTD",
+      "city": "BOSSIER CITY",
+      "state": "LA",
+      "isCorporate": false,
+      "isActive": false
+    },
+    {
+      "charterNumber": 11067,
+      "name": "4U",
+      "city": "GAINESVILLE",
+      "state": "TX",
+      "isCorporate": false,
+      "isActive": true
+    },
+    {
+      "charterNumber": 64878,
+      "name": "5 STAR COMMUNITY",
+      "city": "MOUNT PLEASANT",
+      "state": "IA",
+      "isCorporate": false,
+      "isActive": true
+    },
+    {
+      "charterNumber": 23082,
+      "name": "501 ELECTRICAL WORKERS",
+      "city": " ",
+      "state": "  ",
+      "isCorporate": false,
+      "isActive": false
+    },
+    {
+      "charterNumber": 67753,
+      "name": "555 CREDIT UNION",
+      "city": "CANTON",
+      "state": "MA",
+      "isCorporate": false,
+      "isActive": false
+    },
+    {
+      "charterNumber": 60188,
+      "name": "579",
+      "city": " ",
+      "state": "  ",
+      "isCorporate": false,
+      "isActive": false
+    },
+    {
+      "charterNumber": 5326,
+      "name": "5TH & GODFREY",
+      "city": "PHILADELPHIA",
+      "state": "PA",
+      "isCorporate": false,
+      "isActive": false
+    },
+    {
+      "charterNumber": 5256,
+      "name": "600 ATLANTIC",
+      "city": "BOSTON",
+      "state": "MA",
+      "isCorporate": false,
+      "isActive": true
+    },
+    {
+      "charterNumber": 23967,
+      "name": "65 FAMILY",
+      "city": "NEW YORK",
+      "state": "NY",
+      "isCorporate": false,
+      "isActive": false
+    },
+    {
+      "charterNumber": 21281,
+      "name": "686 SMALL PLANTS",
+      "city": " ",
+      "state": "  ",
+      "isCorporate": false,
+      "isActive": false
+    },
+    {
+      "charterNumber": 23877,
+      "name": "6TH MT. ZION",
+      "city": " ",
+      "state": "  ",
+      "isCorporate": false,
+      "isActive": false
+    },
+    {
+      "charterNumber": 65001,
+      "name": "7-G",
+      "city": " ",
+      "state": "  ",
+      "isCorporate": false,
+      "isActive": false
+    },
+    {
+      "charterNumber": 22933,
+      "name": "701 OPERATING ENGINEERS",
+      "city": " ",
+      "state": "  ",
+      "isCorporate": false,
+      "isActive": false
+    },
+    {
+      "charterNumber": 18749,
+      "name": "705",
+      "city": "LAFAYETTE",
+      "state": "LA",
+      "isCorporate": false,
+      "isActive": true
+    },
+    {
+      "charterNumber": 15306,
+      "name": "720",
+      "city": " ",
+      "state": "  ",
+      "isCorporate": false,
+      "isActive": false
+    },
+    {
+      "charterNumber": 64565,
+      "name": "7213 TELCO",
+      "city": " ",
+      "state": "  ",
+      "isCorporate": false,
+      "isActive": false
+    },
+    {
+      "charterNumber": 2505,
+      "name": "77TH STREET DEPOT",
+      "city": "CHICAGO",
+      "state": "IL",
+      "isCorporate": false,
+      "isActive": true
+    },
+    {
+      "charterNumber": 13661,
+      "name": "7TH DISTRICT HIGHWAY",
+      "city": " ",
+      "state": "  ",
+      "isCorporate": false,
+      "isActive": false
+    },
+    {
+      "charterNumber": 3957,
+      "name": "8 FLAGS",
+      "city": "FERNANDINA BEAC",
+      "state": "FL",
+      "isCorporate": false,
+      "isActive": false
+    },
+    {
+      "charterNumber": 66402,
+      "name": "801",
+      "city": "DAYTON",
+      "state": "OH",
+      "isCorporate": false,
+      "isActive": false
+    },
+    {
+      "charterNumber": 62983,
+      "name": "802",
+      "city": "BARRE",
+      "state": "VT",
+      "isCorporate": false,
+      "isActive": true
+    },
+    {
+      "charterNumber": 61469,
+      "name": "CPC",
+      "city": " ",
+      "state": "  ",
+      "isCorporate": false,
+      "isActive": false
+    },
+    {
+      "charterNumber": 67459,
+      "name": "M  SYSTEMS CREDIT UNION",
+      "city": "SAN ANGELO",
+      "state": "TX",
+      "isCorporate": false,
+      "isActive": false
+    }
+  ]
+}
