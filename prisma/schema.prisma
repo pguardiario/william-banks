@@ -37,4 +37,24 @@ model institutions {
   longitude           Float?
   created_at          DateTime  @default(now())
   updated_at          DateTime
+
+  reviews       reviews[]
+
+}
+
+
+model reviews {
+  id               String       @id // Google Review Resource Name
+  institution_id   Int
+  rating           Int
+  text             String?      @db.Text
+  language         String?
+  author_name      String
+  author_photo_url String?
+  relative_time    String?
+  publish_time     DateTime
+
+  institution      institutions @relation(fields: [institution_id], references: [id])
+
+  @@index([institution_id])
 }
