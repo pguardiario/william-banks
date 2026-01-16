@@ -10,15 +10,14 @@ const prisma = new PrismaClient();
 // const PROXY_URL = "socks5h://127.0.0.1:8080"; // 'h' resolves DNS via proxy
 
 // Create Axios Instance with Proxy and Base Headers
-const vpsAxios = axios;
-//   .create({
-//   httpsAgent: new SocksProxyAgent(PROXY_URL),
-//   proxy: false,
-//   headers: {
-//     "Content-Type": "application/json",
-//     "X-Goog-Api-Key": GOOGLE_API_KEY,
-//   },
-// });
+const vpsAxios = axios.create({
+  // httpsAgent: new SocksProxyAgent(PROXY_URL),
+  // proxy: false,
+  headers: {
+    "Content-Type": "application/json",
+    "X-Goog-Api-Key": GOOGLE_API_KEY,
+  },
+});
 
 async function runStudy() {
   try {
